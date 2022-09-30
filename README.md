@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Robin-LT (Robin)
-- 👀 I’m interested in Coffee, Formula 1 and Paleontology! 
-- 🌱 I’m currently learning with the School of Code!
+-  Hi, I’m @Robin-LT (Robin)
+-  I’m interested in Coffee, Formula 1 and Paleontology! 
+-  I’m currently learning with the School of Code!
